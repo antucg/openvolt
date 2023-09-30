@@ -1,0 +1,13 @@
+.vscode
+
+# Dist folder
+dist
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# mac OS finder files
+.DS_Store

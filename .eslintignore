@@ -1,0 +1,6 @@
+/dist
+/.next
+*.js
+jest-global-setup.ts
+next-env.d.ts
+global.d.ts

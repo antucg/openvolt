@@ -1,0 +1,9 @@
+/dist
+/migrations
+/.next
+/public
+/src/external
+*.hbs
+*.md
+*.sql
+*.tsbuildinfo
